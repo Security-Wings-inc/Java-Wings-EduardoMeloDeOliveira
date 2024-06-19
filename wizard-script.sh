@@ -86,6 +86,13 @@ CREATE TABLE parametrosDeAlerta (
     PRIMARY KEY (idEmpresa),
     constraint fksEmp foreign key(idEmpresa) references Empresa(idEmpresa)
 );
+
+CREATE TABLE inovacaoEduardoMeloDeOliveira(
+idBytesRecebidos int primary key auto_increment,
+bytesRecebidos long,
+monitor int,
+constraint monitored foreign key (monitor) references monitoramento(idMonitoramento)
+);
 "
 
 echo -e "${CYAN}[BOT Security-Wings]:${YELLOW} Olá querido usuário ${NC}"
@@ -299,6 +306,16 @@ CREATE TABLE permissoes (
     CONSTRAINT fk_empresa_permissoes FOREIGN KEY (fkEmpresa) REFERENCES Empresa(idEmpresa),
     CONSTRAINT fk_processo_permissoes FOREIGN KEY (fkProcesso) REFERENCES processos(idProcesso)
 );
+
+
+CREATE TABLE inovacaoEduardoMeloDeOliveira(
+idBytesRecebidos int primary key auto_increment,
+bytesRecebidos long,
+monitor int,
+constraint monitored foreign key (monitor) references monitoramento(idMonitoramento)
+);
+
+
 EOF
 
 #sudo docker exec -i $CONTAINER_NAME mysql -uroot -psecwings100 securityWings -e "$SQL_COMMANDS"
