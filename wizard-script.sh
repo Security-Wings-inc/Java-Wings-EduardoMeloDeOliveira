@@ -86,6 +86,13 @@ CREATE TABLE parametrosDeAlerta (
     PRIMARY KEY (idEmpresa),
     constraint fksEmp foreign key(idEmpresa) references Empresa(idEmpresa)
 );
+
+CREATE TABLE inovacaoEduardoMeloDeOliveira(
+idBytesRecebidos int primary key auto_increment,
+bytesRecebidos long,
+monitor int,
+constraint monitored foreign key (monitor) references monitoramento(idMonitoramento)
+);
 "
 
 echo -e "${CYAN}[BOT Security-Wings]:${YELLOW} Olá querido usuário ${NC}"
