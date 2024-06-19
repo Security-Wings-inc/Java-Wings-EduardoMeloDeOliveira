@@ -9,14 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8fda9d1-6122-48d6-99e9-cc30932cecda" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/inovacao/eduardo/melo/de/oliveira/BytesRecebidos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inovacao/eduardo/melo/de/oliveira/BytesRecebidosDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/inovacao/eduardo/melo/de/oliveira/BytesRecebidosEduardoMeloDeOliveira.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConsoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleService.java" afterDir="false" />
-    </list>
+    <list default="true" id="c8fda9d1-6122-48d6-99e9-cc30932cecda" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,7 +86,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Eduardo Melo DEV/Desktop/projects/Java-Wings-EduardoMeloDeOliveira",
+    "last_opened_file_path": "C:/Users/Eduardo Melo DEV/Desktop/Java-Wing-Squad-Eduardo-Melo-De-Oliviera",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -331,7 +324,7 @@
       <workItem from="1717977929949" duration="2000" />
       <workItem from="1717978117715" duration="1178000" />
       <workItem from="1718022495027" duration="1036000" />
-      <workItem from="1718754924258" duration="823000" />
+      <workItem from="1718754924258" duration="1931000" />
     </task>
     <servers />
   </component>
