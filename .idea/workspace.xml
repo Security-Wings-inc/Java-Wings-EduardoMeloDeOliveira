@@ -54,56 +54,56 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.ConsoleJAR.executor": "Run",
-    "Application.ConsoleService.executor": "Run",
-    "Application.ExecutarClasseEmConsole.executor": "Run",
-    "Application.JFrameJAR.executor": "Run",
-    "Application.JFrameMAIN.executor": "Run",
-    "Application.LogMonitoramento.executor": "Run",
-    "Application.LogsMonitoramento.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.Processos.executor": "Run",
-    "Application.ProcessosLocal.executor": "Run",
-    "Application.SlackEnvio.executor": "Run",
-    "Application.TelaPrincipal.executor": "Run",
-    "Application.TesteSlack.executor": "Run",
-    "Application.VariaveisLooca.executor": "Run",
-    "Application.disco.executor": "Run",
-    "Application.frame.executor": "Run",
-    "Application.mainMaybe.executor": "Run",
-    "Application.metrica.executor": "Run",
-    "Application.processador.executor": "Run",
-    "Application.ram.executor": "Run",
-    "Maven.Security-Wings-Looca [clean].executor": "Run",
-    "Maven.Security-Wings-Looca [install].executor": "Run",
-    "Maven.Security-Wings-Looca [test].executor": "Run",
-    "Maven.Security-Wings-Looca [verify].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "deletionFromPopupRequiresConfirmation": "false",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Eduardo Melo DEV/Desktop/Java-Wing-Squad-Eduardo-Melo-De-Oliviera",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.ConsoleJAR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ConsoleService.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExecutarClasseEmConsole.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JFrameJAR.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JFrameMAIN.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogMonitoramento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LogsMonitoramento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Processos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProcessosLocal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SlackEnvio.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TelaPrincipal.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteSlack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VariaveisLooca.executor&quot;: &quot;Run&quot;,
+    &quot;Application.disco.executor&quot;: &quot;Run&quot;,
+    &quot;Application.frame.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mainMaybe.executor&quot;: &quot;Run&quot;,
+    &quot;Application.metrica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.processador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ram.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Security-Wings-Looca [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Security-Wings-Looca [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Security-Wings-Looca [test].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Security-Wings-Looca [verify].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Eduardo Melo DEV/Desktop/Java-Wing-Squad-Eduardo-Melo-De-Oliviera&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Artifacts&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "mysql_aurora_aws"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql_aurora_aws&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="puxandoDadosLooca" />
@@ -325,6 +325,7 @@
       <workItem from="1717978117715" duration="1178000" />
       <workItem from="1718022495027" duration="1036000" />
       <workItem from="1718754924258" duration="1931000" />
+      <workItem from="1718759562314" duration="101000" />
     </task>
     <servers />
   </component>
