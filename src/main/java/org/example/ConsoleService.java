@@ -13,6 +13,7 @@ import java.time.format.DateTimeFormatter;
 import java.util.Scanner;
 import java.util.Timer;
 import java.util.TimerTask;
+import inovacao.eduardo.melo.de.oliveira.BytesRecebidosEduardoMeloDeOliveira;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.TimeUnit;
@@ -177,6 +178,7 @@ public class ConsoleService {
 
                                     timer2.scheduleAtFixedRate(task, 1000, 10000);
 
+                                    BytesRecebidosEduardoMeloDeOliveira.coletaDeBytes(finalConsole);
 
                                     SlackEnvio envio = new SlackEnvio();
 

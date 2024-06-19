@@ -10,7 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c8fda9d1-6122-48d6-99e9-cc30932cecda" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/inovacao/eduardo/melo/de/oliveira/BytesRecebidos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inovacao/eduardo/melo/de/oliveira/BytesRecebidosDAO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/inovacao/eduardo/melo/de/oliveira/BytesRecebidosEduardoMeloDeOliveira.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/BancoDeDados/BancoLooca.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConsoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ConsoleService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +93,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Eduardo Melo DEV/Desktop/Java-Wing-Squad-Eduardo-Melo-De-Oliviera",
+    "last_opened_file_path": "C:/Users/Eduardo Melo DEV/Desktop/projects/Java-Wings-EduardoMeloDeOliveira",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -189,8 +194,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.15989.150" />
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-IU-241.15989.150" />
       </set>
     </attachedChunks>
   </component>
@@ -326,6 +331,7 @@
       <workItem from="1717977929949" duration="2000" />
       <workItem from="1717978117715" duration="1178000" />
       <workItem from="1718022495027" duration="1036000" />
+      <workItem from="1718754924258" duration="823000" />
     </task>
     <servers />
   </component>
